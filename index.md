@@ -11,16 +11,18 @@ sections:
   - infopic:
       title: Citizens
       subtitle: Solving problems for
-      description: Infopic description
+      description: We create products that ....
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
+      image: /images/citizens.gif
   - infopic:
       title: Public officers
       subtitle: Solving problems for
-      description: Infopic description
+      description: We create products that ....
       button: Button Text
       alt: Image alt text
+      image: /images/publicofficer.gif
   - infobar:
       title: Infobar title
       subtitle: Subtitle
