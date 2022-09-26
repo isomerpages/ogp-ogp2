@@ -15,18 +15,21 @@ sections:
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
-      image: /images/citizens.gif
+      image: /images/citizensandofficers.gif
       subtitle: Solving problems for
   - infopic:
       title: Hacking for public good
-      description: Infopic description
+      description: "We believe in starting where the problems are - on the ground. 70%
+        of our products are built from our annual Hack for Public Good to solve
+        community problems. "
       button: learn more
       url: https://www.open.gov.sg/hackathon/2022/
       image: /images/hfpg.png
       alt: Image alt text
   - infopic:
       title: An open work culture
-      description: Infopic description
+      description: "We push for change by cutting through bureaucracy to create
+        solutions that people need, through a grounds-up approach. "
       button: Learn more
       url: https://www.open.gov.sg/aboutus/
       image: /images/openculture.png
