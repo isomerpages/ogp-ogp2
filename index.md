@@ -40,7 +40,7 @@ sections:
         citizen, government agency or international organisations.
       button: Learn more
       url: https://www.open.gov.sg/partnerwithus/
-      image: /images/logo3.jpg
+      image: /images/logo2.jpg
       alt: Image alt text
   - infobar:
       title: Build with us
