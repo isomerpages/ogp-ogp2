@@ -35,11 +35,13 @@ sections:
       image: /images/openculture.png
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Partner with us
+      description: Explore opportunities to partner with us, whether you are a
+        citizen, government agency or international organisation.
+      button: Learn more
       alt: Image alt text
+      url: https://www.open.gov.sg/partnerwithus/
+      image: /images/logo2.jpg
   - infobar:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
