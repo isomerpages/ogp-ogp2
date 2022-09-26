@@ -9,18 +9,14 @@ sections:
   - hero:
       background: /images/header.gif
   - infopic:
-      title: Solving problems for citizens
-      description: We create products that ....
+      title: " Citizens and public officers"
+      description: "We create products that improve citizens' lives and increase
+        efficiency of government processes. "
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
       image: /images/citizens.gif
-  - infopic:
-      title: Solving problems for public officers
-      description: We create products that ....
-      button: Button Text
-      alt: Image alt text
-      image: /images/publicofficer.gif
+      subtitle: Solving problems for
   - infopic:
       title: Hacking for public good
       description: Infopic description
@@ -41,7 +37,7 @@ sections:
         citizen, government agency or international organisations.
       button: Learn more
       url: https://www.open.gov.sg/partnerwithus/
-      image: /images/logo2.jpg
+      image: /images/logo3.jpg
       alt: Image alt text
   - infobar:
       title: Build with us
