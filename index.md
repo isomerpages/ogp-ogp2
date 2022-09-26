@@ -41,4 +41,11 @@ sections:
       url: https://www.open.gov.sg/aboutus/
       image: /images/openculture.png
       alt: Image alt text
+  - infobar:
+      title: Build with us
+      description: Work on meaningful projects from healthcare to anti-scam
+        technology. Use your skills to fix actual problems in the community and
+        build a better Singapore.
+      button: Apply now
+      url: https://opengovernmentproducts.recruitee.com/#section-89477
 ---
