@@ -28,12 +28,6 @@ sections:
       url: https://www.open.gov.sg/hackathon/2022/
       image: /images/hfpg.png
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: An open work culture
       description: Infopic description
