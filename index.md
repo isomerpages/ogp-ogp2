@@ -34,6 +34,12 @@ sections:
       url: https://www.open.gov.sg/aboutus/
       image: /images/openculture.png
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
