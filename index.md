@@ -9,24 +9,36 @@ sections:
   - hero:
       background: /images/header.gif
   - infopic:
-      title: Citizens
-      subtitle: Solving problems for
+      title: Solving problems for citizens
       description: We create products that ....
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
       image: /images/citizens.gif
   - infopic:
-      title: Public officers
-      subtitle: Solving problems for
+      title: Solving problems for public officers
       description: We create products that ....
       button: Button Text
       alt: Image alt text
       image: /images/publicofficer.gif
+  - infopic:
+      title: Hacking for public good
+      description: Infopic description
+      button: learn more
+      url: https://www.open.gov.sg/hackathon/2022/
+      image: /images/hfpg.png
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: An open work culture
+      description: Infopic description
+      button: Learn more
+      url: https://www.open.gov.sg/aboutus/
+      image: /images/openculture.png
+      alt: Image alt text
 ---
