@@ -39,7 +39,7 @@ sections:
       description: Explore opportunities to partner with us, whether you are a
         citizen, government agency or international organisation.
       button: Learn more
-      alt: Image alt text
+      alt: logos
       url: https://www.open.gov.sg/partnerwithus/
       image: /images/logo2.jpg
   - infobar:
