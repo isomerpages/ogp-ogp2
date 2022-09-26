@@ -37,7 +37,7 @@ sections:
   - infopic:
       title: Partners we work with
       description: Explore opportunities to partner with us, whether you are a
-        citizen, government agency or international organisations.
+        citizen, government agency or international organisation.
       button: Learn more
       url: https://www.open.gov.sg/partnerwithus/
       image: /images/logo2.jpg
