@@ -19,9 +19,9 @@ sections:
       subtitle: Solving problems for
   - infopic:
       title: Hacking for public good
-      description: "We believe in starting where the problems are - on the ground. 70%
-        of our products are built from our annual Hack for Public Good to solve
-        community problems. "
+      description: We start where problems are– on the ground. 70% of our products
+        come from Hack for Public Good, where we build products to solve
+        problems in the community.
       button: learn more
       url: https://www.open.gov.sg/hackathon/2022/
       image: /images/hfpg.png
@@ -45,8 +45,8 @@ sections:
   - infobar:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
-        technology. Use your skills to fix actual problems in the community and
-        build a better Singapore.
+        technology. Use your skills to fix problems in the community and build a
+        better Singapore.
       button: Apply now
       url: https://opengovernmentproducts.recruitee.com/#section-89477
 ---
