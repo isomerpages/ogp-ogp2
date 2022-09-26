@@ -35,12 +35,12 @@ sections:
       image: /images/openculture.png
       alt: Image alt text
   - infopic:
-      title: Partners we work with
+      title: Partner with us
       description: Explore opportunities to partner with us, whether you are a
         citizen, government agency or international organisation.
       button: Learn more
       url: https://www.open.gov.sg/partnerwithus/
-      image: /images/logo2.jpg
+      image: /images/logo3.jpg
       alt: Image alt text
   - infobar:
       title: Build with us
