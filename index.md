@@ -24,7 +24,7 @@ sections:
         problems in the community.
       button: learn more
       url: https://www.open.gov.sg/hackathon/2022/
-      image: /images/hfpg.png
+      image: /images/hfpg2.jpg
       alt: Image alt text
   - infopic:
       title: An open work culture
