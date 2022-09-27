@@ -9,14 +9,21 @@ sections:
   - hero:
       background: /images/header.gif
   - infopic:
-      title: " Citizens and public officers"
+      title: "Solving problems for citizens "
       description: "We create products that improve citizens' lives and increase
         efficiency of government processes. "
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
       image: /images/citizensandofficers.gif
-      subtitle: Solving problems for
+  - infopic:
+      title: Solving problems for public officers
+      description: To create a more efficient government and build trusted
+        communications with citizens.
+      button: Our products
+      url: https://www.open.gov.sg/products/overview
+      image: /images/publicofficer.gif
+      alt: Image alt text
   - infopic:
       title: Hacking for public good
       description: We start where problems are– on the ground. 70% of our products
@@ -42,11 +49,13 @@ sections:
       alt: logos
       url: https://www.open.gov.sg/partnerwithus/
       image: /images/logo2.jpg
-  - infobar:
+  - infopic:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
         technology. Use your skills to fix problems in the community and build a
         better Singapore.
-      button: Apply now
+      button: Apply Now
       url: https://opengovernmentproducts.recruitee.com/#section-89477
+      image: /images/buildwus2.jpg
+      alt: Image alt text
 ---
