@@ -48,7 +48,7 @@ sections:
       button: Learn more
       alt: logos
       url: https://www.open.gov.sg/partnerwithus/
-      image: /images/logo2.jpg
+      image: /images/logo4.jpg
   - infopic:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
