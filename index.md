@@ -46,9 +46,9 @@ sections:
       description: Explore opportunities to partner with us, whether you are a
         citizen, government agency or international organisation.
       button: Learn more
-      alt: logos
       url: https://www.open.gov.sg/partnerwithus/
       image: /images/logo4.jpg
+      alt: Image alt text
   - infopic:
       title: Build with us
       description: Work on meaningful projects from healthcare to anti-scam
