@@ -10,8 +10,9 @@ sections:
       background: /images/header.gif
   - infopic:
       title: "Solving problems for citizens "
-      description: "We create products that improve citizens' lives and increase
-        efficiency of government processes. "
+      description: To eliminate parking coupons, protect citizens from scams, and
+        digitise paper voucher redemption systems to facilitate government
+        fiscal policies
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
