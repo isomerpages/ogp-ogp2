@@ -16,7 +16,7 @@ sections:
       button: Our products
       url: https://www.open.gov.sg/products/overview
       alt: Image alt text
-      image: /images/citizensandofficers.gif
+      image: /images/homepgcitizens.gif
   - infopic:
       title: Solving problems for public officers
       description: To create a more efficient government and build trusted
@@ -44,17 +44,16 @@ sections:
       alt: Image alt text
   - infopic:
       title: Partner with us
-      description: Explore opportunities to partner with us, whether you are a
-        citizen, government agency or international organisation.
+      description: Explore opportunities to partner with us, whether as a citizen,
+        government agency or international organisation.
       button: Learn more
       url: https://www.open.gov.sg/partnerwithus/
       image: /images/logo5.png
       alt: Image alt text
   - infopic:
       title: Build with us
-      description: Work on meaningful projects from healthcare to anti-scam
-        technology. Use your skills to fix problems in the community and build a
-        better Singapore.
+      description: Use your skills to fix problems in the community and build a better
+        Singapore.
       button: Apply Now
       url: https://opengovernmentproducts.recruitee.com/#section-89477
       image: /images/buildwus2.jpg
