@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/header.gif
+      background: /images/headernoannimation.gif
   - infopic:
       title: "Solving problems for citizens "
       description: To eliminate parking coupons, protect citizens from scams, and
