@@ -36,9 +36,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: An open work culture
-      description: We push for change by giving the team the autonomy to decide how to
-        maximise impact. Frameworks for all important matters are also
-        transparent to the team.
+      description: "We push for change by giving the team the autonomy to decide how
+        to maximise impact. Frameworks for all important matters are also shared
+        transparently. "
       button: Learn more
       url: https://www.open.gov.sg/aboutus/
       image: /images/openculture.png
